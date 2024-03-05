@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Bellas Website - Home</title>
+</head>
+<body>
+    <header>
+        <h1>B</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Page 1</a></li>
+                <li><a href="hobbies.html">Page 2</a></li>
+                <li><a href="friendsandfamily.html">Page 3</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Welcome to my website. click on the pages to learn more about me. </p>
+        </section>
+        <section>
+            <h2>Styling Example</h2>
+            <p>This is a <strong>bold</strong> text with <span style="font-size: 1.2em;">size adjustment</span>.</p>
+        </section>
+        <section>
+            <h2>Lists</h2>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Website</p>
+    </footer>
+</body>
+</html>
+
+		
